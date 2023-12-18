@@ -1,0 +1,25 @@
+@media only screen and (max-width: 650px) {
+    h1{
+        font-size: 3.0vw;
+    }
+   button{
+    font-size: 2.0vw;
+   }
+   #box{
+    height:25vh;
+    width:50vw;
+   }
+   #box p{  
+    font-size: 5.0vw;
+   }
+   #box input{
+    width:40vw;
+    font-size: 2.8vw;
+   }
+   #box button{
+    font-size: 3.0vw;
+   }
+   h2{
+    font-size: 3.5vw;
+   }
+  }
